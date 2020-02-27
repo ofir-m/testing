@@ -1,0 +1,22 @@
+{
+  "name": "@omaor/sentences",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/calcs.js",
+  "scripts": {
+   
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist/calcs.js",
+    "dist/utils.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
+}
